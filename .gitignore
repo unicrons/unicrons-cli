@@ -35,3 +35,10 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# osx system file
+.DS_Store
+
+# project tools auto generator file
+.idea
+.vscode
